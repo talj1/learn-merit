@@ -1,11 +1,11 @@
 ---
 layout: default
-title: CSS
+title: CSS Basics
 parent: Languages
 nav_order: 2
 ---
 
-# HTML
+# CSS Basics
 {: .no_toc }
 
 ## Table of contents
