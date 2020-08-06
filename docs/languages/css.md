@@ -44,9 +44,8 @@ CSS selectors allow you to style different parts of your HTML in an organized wa
 | ID | Change the styling for one paragraph tag | Paragraph 4 (blue) |
 | Inline style | Change the styling of a tag in HTML | Paragraph 5 (green) |
 
-## Example 1 {.tabset}
-
-### CSS
+#### CSS
+{: .no_toc }
 
 ```css
 /* Element Selector */
@@ -65,7 +64,8 @@ p {
 }
 ```
 
-### HTML
+#### HTML
+{: .no_toc }
 
 ```html
 <html>
@@ -84,15 +84,12 @@ p {
 </html>
 ```
 
-## {-}
-
 ### Cascade
 
 The "Cascade" part of "CSS" refers to its loading behavior. CSS is loaded from top to bottom, thus bottom styles might override styles above them. 
 
-## Example 2 {.tabset}
-
-### CSS
+#### CSS
+{: .no_toc }
 
 ```css
 p {
@@ -105,7 +102,8 @@ p {
 }
 ```
 
-### HTML
+#### HTML
+{: .no_toc }
 
 ```html
 <html>
@@ -118,13 +116,10 @@ p {
 </html>
 ```
 
-## {-}
-
 This behavior extends to multiple stylesheets loaded in the HTML document head, later stylesheets may override styles in previous stylesheets. In the example below, the styles from file2.css will be used instead of file1.css because of the order the stylesheets are linked in the HTML.
 
-## Example 3 {.tabset}
-
-### file1.css
+#### file1.css
+{: .no_toc }
 
 ```css
 p {
@@ -132,7 +127,8 @@ p {
 }
 ```
 
-### file2.css
+#### file2.css
+{: .no_toc }
 
 ```css
 p {
@@ -140,7 +136,9 @@ p {
 }
 ```
 
-### HTML
+#### HTML
+{: .no_toc }
+
 ```html
 <html>
 <head>
@@ -160,51 +158,50 @@ p {
 1. You should name your CSS classes and IDs with kebab case (e.g. class-name), never uppercase. A few people like using camel case for IDs but we personally don't recommend it.
 
 2. Learn how to write utility classes. These are classes that have one job and are easy to reuse. For example, if you wanted for a few elements to have blue text, instead of repeating ```color: blue``` in each rule every time you wanted to use that color, simply make one class called ```.text-blue {}``` that could be used in your HTML whenever you need blue text.
-```css
-.text-blue {
-    color: blue;
-}
-```
-You can easily write way too many utility classes so use them for things like margin, padding, colors where you know you'll need to be flexible.
+
+    ```css
+    .text-blue {
+        color: blue;
+    }
+    ```
+
+    You can easily write way too many utility classes so use them for things like margin, padding, colors where you know you'll need to be flexible.
 
 3. You should try to keep your CSS as organized and readable as possible. You will quickly discover that your CSS can get very lengthy very quickly and it can be hard to keep your code DRY. A simple way to section out your CSS is the following:
-```css
-/* Imports */
-@import googlefonts;
-@import otherstylesheet.css;
 
-/* General Styles */
-body
-h1, h2, h3...
-p
-a, button, a:hover...
+    ```css
+    /* Imports */
+    @import googlefonts;
+    @import otherstylesheet.css;
 
-/* Typography */
-body {
-    font-family: sans-serif;
-}
+    /* General Styles */
+    body
+    h1, h2, h3...
+    p
+    a, button, a:hover...
 
-code, pre {
-    font-family: monospace;
-}
+    /* Typography */
+    body {
+        font-family: sans-serif;
+    }
 
-/* Layout styles */
-nav {}
-.row {}
-.column {}
-#site-footer {}
+    code, pre {
+        font-family: monospace;
+    }
 
-/* Utility classes */
-.text-blue {}
-.text-red {}
+    /* Layout styles */
+    nav {}
+    .row {}
+    .column {}
+    #site-footer {}
 
-/* Specific components */
-.card {}
-#middle-content {}
-```
-The best way to order the selectors within a section is in the order they appear on the page (see the "Specific Components" section above), this way cascade loads the CSS in the order that the elements appear on the page. Another way to order your selectors is from most specific to least specific (element selectors, then class selectors, then ID selectors, see the "Layout Styles" section above).
+    /* Utility classes */
+    .text-blue {}
+    .text-red {}
 
-| Status | Response  |
-| ------ | --------- |
-| 200    |<pre lang="json">{<br>  "id": 10,<br>  "username": "alanpartridge",<br>  "email": "alan@alan.com",<br>  "password_hash": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.CPCWCZsyqqa8./whhfzBZydX7yvahHS",<br>  "password_salt": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.",<br>  "created_at": "2015-02-14T20:45:26.433Z",<br>  "updated_at": "2015-02-14T20:45:26.540Z"<br>}</pre>|
-| 400    |<code>{<br>  "code": 400,<br>  "msg": balabala"<br>}</code>|
+    /* Specific components */
+    .card {}
+    #middle-content {}
+    ```
+
+    The best way to order the selectors within a section is in the order they appear on the page (see the "Specific Components" section above), this way cascade loads the CSS in the order that the elements appear on the page. Another way to order your selectors is from most specific to least specific (element selectors, then class selectors, then ID selectors, see the "Layout Styles" section above).
