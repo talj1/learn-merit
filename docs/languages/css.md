@@ -141,7 +141,6 @@ p {
 ```
 
 ### HTML
-
 ```html
 <html>
 <head>
@@ -205,3 +204,7 @@ nav {}
 ```
 The best way to order the selectors within a section is in the order they appear on the page (see the "Specific Components" section above), this way cascade loads the CSS in the order that the elements appear on the page. Another way to order your selectors is from most specific to least specific (element selectors, then class selectors, then ID selectors, see the "Layout Styles" section above).
 
+| Status | Response  |
+| ------ | --------- |
+| 200    |<pre lang="json">{<br>  "id": 10,<br>  "username": "alanpartridge",<br>  "email": "alan@alan.com",<br>  "password_hash": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.CPCWCZsyqqa8./whhfzBZydX7yvahHS",<br>  "password_salt": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.",<br>  "created_at": "2015-02-14T20:45:26.433Z",<br>  "updated_at": "2015-02-14T20:45:26.540Z"<br>}</pre>|
+| 400    |<code>{<br>  "code": 400,<br>  "msg": balabala"<br>}</code>|
