@@ -2,6 +2,7 @@
 layout: default
 title: HTML
 parent: Languages
+nav_order: 1
 ---
 
 # HTML
@@ -15,14 +16,14 @@ parent: Languages
 
 ---
 
-HTML is the markup language of websites and web applications. It's the way that content (text, graphics, and other media) is defined and organized on a web page. HTML by itself does not look fantastic. To style the content defined by HTML (add fonts, colors, layouts, etc. to your web pages), you need to learn <a href="/">CSS</a>.<br>
+HTML is the markup language of websites and web applications. It's the way that content (text, graphics, and other media) is defined and organized on a web page. HTML by itself does not look fantastic. To style the content defined by HTML (add fonts, colors, layouts, etc. to your web pages), you need to learn <a href="/docs/languages/css">CSS</a>.<br>
 <strong>It is highly recommended that you learn HTML and CSS at the same time.</strong>
 
 ## Tutorials
 
 The best websites to learn HTML are the following:
 
-1. <a href="https://w3schools.com">w3schools</a><br><strong>A full HTML course for those who are new to web development looking for simple answers</strong><br>The simplest tutorial site for an introduction to HTML and other languages. Has examples, code sandboxes, and practice questions, and is rather comprehensive. Highly recommended for beginners.
+1. <a href="https://www.w3schools.com/html/default.asp">w3schools</a><br><strong>A full HTML course for those who are new to web development looking for simple answers</strong><br>The simplest tutorial site for an introduction to HTML and other languages. Has examples, code sandboxes, and practice questions, and is rather comprehensive. Highly recommended for beginners.
 2. <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN</a><br><strong>For those who are experienced coders looking for the right answers</strong><br>MDN (Mozilla Developer Network) is the standard documentation and examples for professional developers. Provides more detailed and accurate explanations than w3schools.
 3. <a href="https://www.codecademy.com/learn/learn-html">codecademy</a><br><strong>For those who want to get a brief overview and learn by doing</strong><br>Codecademy has a great free mini course for learning HTML. It does require an account but teaches the basics quickly and effectively.
 4. <a href="https://codehs.com/go/F5D0E">CodeHS</a><br><strong>For those who want a comprehensive web design course</strong><br>Click the link above to enroll in Merit Academy's complete web design course which covers HTML, CSS, Bootstrap, and other skills related to making web sites. The course code (if you need it upon signing up) is <b>F5D0E</b>.
