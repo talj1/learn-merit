@@ -1,7 +1,7 @@
 ---
 layout: default
 title: HTML
-parent: Languages
+parent: Web Dev Basics
 nav_order: 1
 ---
 
@@ -16,7 +16,7 @@ nav_order: 1
 
 ---
 
-HTML is the markup language of websites and web applications. It's the way that content (text, graphics, and other media) is defined and organized on a web page. HTML by itself does not look fantastic. To style the content defined by HTML (add fonts, colors, layouts, etc. to your web pages), you need to learn <a href="/docs/languages/css">CSS</a>.<br>
+HTML is the markup language of websites and web applications. It's the way that content (text, graphics, and other media) is defined and organized on a web page. HTML by itself does not look fantastic. To style the content defined by HTML (add fonts, colors, layouts, etc. to your web pages), you need to learn <a href="/docs/web-dev-basics/css">CSS</a>.<br>
 <strong>It is highly recommended that you learn HTML and CSS at the same time.</strong>
 
 ## Tutorials

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Languages
+title: Web Dev Basics
 nav_order: 2
 has_children: true
-permalink: /docs/languages/
+permalink: /docs/web-dev-basics/
 ---
 
-# Languages
+# Web Development Basics
 
 Click on a language below to begin learning!
 {: .fs-6 .fw-300 }

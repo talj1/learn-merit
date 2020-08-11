@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CSS Basics
-parent: Languages
+parent: Web Dev Basics
 nav_order: 2
 ---
 
@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 
-CSS is the styling language of websites and web applications. It styles the <a href="/docs/languages/html">HTML</a> markup of web pages and is nothing without HTML. It would be trying to do paint-by-numbers without a coloring book. Therefore, you do need to know at least a little bit of HTML before you learn any CSS.
+CSS is the styling language of websites and web applications. It styles the <a href="/docs/web-dev-basics/html">HTML</a> markup of web pages and is nothing without HTML. It would be trying to do paint-by-numbers without a coloring book. Therefore, you do need to know at least a little bit of HTML before you learn any CSS.
 It is highly recommended that you learn HTML and CSS at the same time.<br>
 <strong>It is highly recommended that you learn HTML and CSS at the same time.</strong>
 
