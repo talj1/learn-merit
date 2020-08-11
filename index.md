@@ -21,12 +21,12 @@ Merit Academy Tech U is &copy; {{ "now" | date: "%Y" }} by [Merit Academy Tech](
 
 ### License
 
-Merit Academy Tech U is distributed by an [MIT license](https://github.com/buckldav/buckldav.github.io/tree/master/LICENSE.txt).
+Merit Academy Tech U is distributed by an [MIT license](https://github.com/buckldav/learn-merit/tree/master/LICENSE.txt).
 
 ### Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/buckldav/buckldav.github.io).
+email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/buckldav/learn-merit).
 
 #### Thank you to the contributors of Merit Academy Tech U!
 
