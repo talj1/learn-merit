@@ -42,4 +42,4 @@ email, or any other method with the owners of this repository before making a ch
 
 Merit Academy Tech U is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+[View our Code of Conduct](https://github.com/buckldav/learn-merit/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository. 
