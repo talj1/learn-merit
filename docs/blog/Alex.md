@@ -1,6 +1,7 @@
 ---
 layout: default
-title: alex
+title: Alex
+parent: Blog
 permalink: /blog/alex
 ---
 

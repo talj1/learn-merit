@@ -1,5 +1,6 @@
 ---
 layout: default
-title:McKay
+title: McKay
+parent: Blog
 permalink: /blog/McKay
 ---
