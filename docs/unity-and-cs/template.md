@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Template
+title: Intro to Unity
+nav-order: 1
 parent: Unity and C#
-permalink: /docs/unity-cs/template
+permalink: /docs/unity-cs/introduction
 ---
 
-# This is a template
+# Welcome!
 
-Hello
+This is an intoduction to Game Development in Unity
 
-## Markdown is fun
+If you don't already have an account on Unity, go ahead and do that.
 
-Blah blah blah
-
-### If you upload a YouTube video or have a repl, you can embed them
+To get an Unity account, go to https://unity.com/ and click the profile picture icon. Under that, click Creat Unity ID. 
+Follow that and you will have your account.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n3zAcnwJnuw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
