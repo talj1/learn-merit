@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unity and C#
+title: Template
 parent: Unity and C#
 permalink: /docs/unity-cs/template
 ---
