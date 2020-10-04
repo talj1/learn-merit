@@ -13,6 +13,8 @@ code {
 
 pre.highlight,
 figure.highlight {
+  @include fs-5;
+  line-height: 1.1;
   padding: $sp-3;
   margin-top: 0;
   margin-bottom: 0;
