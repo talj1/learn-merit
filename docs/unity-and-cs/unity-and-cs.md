@@ -6,7 +6,6 @@ has_children: true
 permalink: /docs/unity-cs/
 ---
 
-# Web Development Basics
+# Not Web Development Basics
 
-Here are some tutorials about Unity and C# made by the talented Dallin.
-{: .fs-6 .fw-300 }
+A quick start to Unity!
