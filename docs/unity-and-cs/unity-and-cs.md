@@ -14,7 +14,7 @@ Unity is a free to use, game engine that supports both 3D and 2D game developeme
 
 [List of games made in Unity (If you want examples)](https://en.wikipedia.org/wiki/List_of_Unity_games)
 
-
+** **
 You may choose between 2D or 3D games for the project you want to work on. Each has their own pros and cons to work with. 
 
 Unity was built for 3D games and the coding seems to be  mostly built for 3D. For 3D, you probably won't be making your own models which means you will have to use premade models from other people. 
