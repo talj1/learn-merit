@@ -1,4 +1,5 @@
 # learn-merit
+
 [https://learn.meritacademy.tech](https://learn.meritacademy.tech)
 
 Merit Academy Tech U is a place to learn programming. It provides direction to the resources you need to learn the fundamentals.
@@ -25,7 +26,11 @@ Merit Academy Tech U is committed to fostering a welcoming community.
 [View our Code of Conduct](https://github.com/buckldav/learn-merit/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
 
 ### Usage
+
 For development:
+
 ```bash
 jekyll serve
 ```
+
+This site is based off of [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
