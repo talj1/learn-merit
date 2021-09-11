@@ -13,7 +13,7 @@ This is an intoduction to Game Development in Unity
 If you don't already have an account on Unity, go ahead and do that.
 
 To get an Unity account, go to https://unity.com/ and click the profile picture icon. Under that, click Creat Unity ID. 
-Follow that and you will have your account.
+Follow that and you will be able to create your account.
 
 ## Image Example
 <img src="/assets/images/unity/unity-logo.png" width="250px" alt="Unity logo">
