@@ -194,3 +194,9 @@
     }
   }
 }
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: $sp-8;
+}

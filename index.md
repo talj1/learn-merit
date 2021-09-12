@@ -8,6 +8,7 @@ last_modified_date: 2020-08-05T17:54:08+0000
 ---
 
 # Welcome!
+
 {: .fs-9 }
 
 Merit Academy Tech U is a place to learn programming. It provides direction to the resources you need to learn the fundamentals.
@@ -17,11 +18,11 @@ Merit Academy Tech U is a place to learn programming. It provides direction to t
 
 ## About the project
 
-Merit Academy Tech U is &copy; {{ "now" | date: "%Y" }} by [Merit Academy Tech](https://meritacademy.tech).
+Merit Academy Tech U's content is published by Merit Academy under a [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ### License
 
-Merit Academy Tech U is distributed by an [MIT license](https://github.com/buckldav/learn-merit/tree/master/LICENSE.txt).
+Merit Academy Tech U's code is distributed by an [MIT license](https://github.com/buckldav/learn-merit/tree/master/LICENSE.txt).
 
 ### Contributing
 
@@ -42,4 +43,4 @@ email, or any other method with the owners of this repository before making a ch
 
 Merit Academy Tech U is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/buckldav/learn-merit/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository. 
+[View our Code of Conduct](https://github.com/buckldav/learn-merit/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.

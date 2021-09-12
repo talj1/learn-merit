@@ -6,11 +6,11 @@ Merit Academy Tech U is a place to learn programming. It provides direction to t
 
 ## About the project
 
-Merit Academy Tech U is &copy; 2020 by [Merit Academy Tech](https://meritacademy.tech).
+Merit Academy Tech U's content is published by Merit Academy under a [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ### License
 
-Merit Academy Tech U is distributed by an [MIT license](https://github.com/buckldav/learn-merit/tree/master/LICENSE.txt).
+Merit Academy Tech U's code is distributed by an [MIT license](https://github.com/buckldav/learn-merit/tree/master/LICENSE.txt).
 
 ### Contributing
 
