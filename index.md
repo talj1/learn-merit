@@ -9,8 +9,6 @@ last_modified_date: 2020-08-05T17:54:08+0000
 
 # Welcome!
 
-{: .fs-9 }
-
 Merit Academy Tech U is a place to learn programming. It provides direction to the resources you need to learn the fundamentals.
 {: .fs-6 .fw-300 }
 
@@ -44,3 +42,7 @@ email, or any other method with the owners of this repository before making a ch
 Merit Academy Tech U is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/buckldav/learn-merit/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+
+## About our school
+
+Merit Academy is a 7-12 charter school in Springville, Utah. We offer both online and in-person courses. Click [here](https://cs.meritacademy.tech) to see the CS Courses we offer. If you'd like to know more about the school, including enrollment, visit [https://meritprepacademy.org](https://meritprepacademy.org).
